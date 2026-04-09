@@ -243,7 +243,7 @@ export default function App() {
                 </div>
                 <h1 className="text-3xl font-black mb-3 tracking-tight text-indigo-950">PurPur HostLab</h1>
                 <p className="text-slate-500 mb-12 leading-relaxed">
-                  本系统将考核您的英语口语引导能力。<br />
+                  本系统将考核您的英语口语引导能力。 测试一下<br />
                   请完成培训并进行语音实战模拟。
                 </p>
                 <button 
